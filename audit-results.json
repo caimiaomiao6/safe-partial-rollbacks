@@ -1,0 +1,24 @@
+{
+  "article_metadata": {
+    "article_title": "Computing Safe Partial Rollbacks from Compressed Checkpoint Logs",
+    "journal": "Algorithmica",
+    "authors": "Siyuan Qiu and Jianfeng Xu",
+    "corresponding_affiliation": "Koguan School of Law, China Institute for Smart Justice, School of Computer Science, Shanghai Jiao Tong University, Shanghai 200030, China",
+    "corresponding_email": "xujf@sjtu.edu.cn"
+  },
+  "structural": {
+    "orders": 407,
+    "interval_pairs": 160432,
+    "net_markings": 5230,
+    "net_steps": 51368
+  },
+  "numerical": {
+    "cases": 21,
+    "max_objective_error": 9.938453171549696e-10,
+    "max_duality_gap": 9.938453164598296e-10
+  },
+  "nonuniform_counterexample": {
+    "selective_disclosure": 0.016063092291200065,
+    "independent_timesharing": 0.046899559358928124
+  }
+}

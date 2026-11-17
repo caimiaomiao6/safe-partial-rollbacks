@@ -1,0 +1,14 @@
+Article title: Computing Safe Partial Rollbacks from Compressed Checkpoint Logs
+Journal: Algorithmica
+Authors: Siyuan Qiu and Jianfeng Xu
+Corresponding affiliation: Koguan School of Law, China Institute for Smart Justice, School of Computer Science, Shanghai Jiao Tong University, Shanghai 200030, China
+Corresponding email: xujf@sjtu.edu.cn
+
+Language identity: 50 naturally labelled orders, 104794 cells.
+b=0: (0,0.000000), (1,1.000000), (2,2.222392), (3,3.807355), (4,6.129283)
+b=1: (0,0.000000), (1,1.000000), (2,2.222392), (5,6.129283)
+b=2: (0,0.000000), (1,1.000000), (6,6.129283)
+b=3: (0,0.000000), (7,6.129283)
+b=6: (0,0.000000), (10,6.129283)
+Critical trunk length (8,4): 3
+K4, two checkpoints, minimum hard-depth-one codebook: 7
